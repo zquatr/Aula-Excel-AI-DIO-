@@ -1,0 +1,17 @@
+Aula: Criando um organizador de Declaração de imposto de Renda.
+
+Conhecimento dos preenchimentos dos campos solicitados ao se fazer a Declaração do Imposto de Renda.
+
+Pesquisa:
+Soma dos rendimentos tributáveis – soma das despesas dedutíveis = base de cálculo do IR. 
+Aplicação da alíquota de IR sobre a base de cálculo = imposto devido pelo contribuinte. 
+Valor devido de imposto – imposto pago durante o ano = valor de IR a ser pago ou restituído.
+
+Aprendizado em fazer uma planilha apresentável.
+
+Aprendizado em fórmulas, formatação de textos, criação de botões com hiperlinks.
+Criando uma função de Excel.
+
+
+
+https://www.dio.me/
